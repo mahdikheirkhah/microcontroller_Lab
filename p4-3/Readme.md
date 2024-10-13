@@ -1,0 +1,1 @@
+The goal is to find the value of voltage on channel 2 and channel 3 and the temperature on channel 5. If it is pressed once, it will show the voltage on channel 2, if it is pressed twice, it will be the voltage on channel 3 and if the key is pressed for the third time, it will show the temperature on the segment with precision. 

@@ -1,0 +1,1 @@
+The goal is to find the value of voltage on channel two and show it at the percussion of one floating digit.

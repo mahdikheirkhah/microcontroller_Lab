@@ -1,0 +1,1 @@
+The goal is, by pressing the '+' key on the keypad, the number on the LCD increment by one and by pressing the '-' key on the keypad, the number on the LCD decrement by one.

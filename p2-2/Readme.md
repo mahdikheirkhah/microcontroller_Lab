@@ -1,0 +1,2 @@
+Using a 4x4 matrix keypad and a 4 digit seven segment, the keypad should connect to port B. 
+The goal is to show the digits of a number between 0 and 9999. By pressing key1 number should increase by one and by pressing key2 the number should decrease by one.

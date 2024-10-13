@@ -1,0 +1,1 @@
+The goal is, by pressing each button on the keypad, the value of it (hexadecimal digits) shows on the right digit of seven segments and the values of other digits will be shifted to the left except for the left one.

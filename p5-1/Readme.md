@@ -1,0 +1,1 @@
+Using USART for serial connection between the board and the computer. The information from the computer (code vision terminal) should be shown on the LCD and the code of the pressed key of the keypad will be transferred from the board to the computer.

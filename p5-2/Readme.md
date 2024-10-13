@@ -1,0 +1,1 @@
+First, using USART connection, receive a number from the computer, then show it on the seven segments, then if you get 'd' from the computer start decreasing the number, if you get 'u' from the computer, start increasing the number and if you get 's' from the computer, stop changing the number.

@@ -1,0 +1,1 @@
+the goal is, by each time of pressing the '+' on the keypad; digits of decimal base will be shown from left to right on the seven segments in order and by each time of pressing the '-' on the keypad; digits of decimal base will be shown from rigth to left on the seven segments in order

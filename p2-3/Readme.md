@@ -1,0 +1,1 @@
+The output of a wave generator will be connected to PD2 and PD3, And the goal is to count the number of leading edges on PD2 in ascending order and count the number of trailing edges on PD2 in descending order with interrupts.

@@ -1,0 +1,1 @@
+The goal is to find the value of voltage on pin A2 and the value of temperature on pin A5 (LM35 sensor) and print them on the LCD.

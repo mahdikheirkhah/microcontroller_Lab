@@ -1,0 +1,1 @@
+Showing the temperature with the precision of one floating number on the seventh segment, and send it to the computer if the key 't' has been pressed on the computer.

@@ -1,0 +1,1 @@
+Create a high-precision timer capable of measuring time to two decimal places using CTC mode and a comparison interrupt. This timer will begin counting when key 1 is pressed and stop when key 1 is pressed again.
